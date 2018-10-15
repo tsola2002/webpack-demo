@@ -53,7 +53,23 @@ module.exports = {
                                 loader: "extract-loader"
                             },
                             {
-                                loader: "html-loader"
+                                //html-loader does the linting
+                                loader: "html-loader",
+                                options: {
+                                    //target the src attribute of the image tag
+                                    attrs: ["img:src"]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        test: /\.(jpg|gif|png)$/,
+                        use: [
+                            {
+                                loader: "file-loader",
+                                options: {
+                                    name: "images/[name]-[hash:8].[ext]"
+                                }
                             }
                         ]
                     }
