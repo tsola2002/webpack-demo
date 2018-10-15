@@ -14,7 +14,9 @@ module.exports = {
         publicPath: "/"
     },
     devServer: {
-        contentBase: "dist"
+        contentBase: "dist",
+        //displays errors on the browser
+        overlay: true
     },
     module: {
         //setting the rules that webpack will use wen it encounters different filetypes
@@ -31,6 +33,27 @@ module.exports = {
                             {
                                 //css loader will lint the file
                                 loader: "css-loader"
+                            }
+                        ]
+                    },
+                    {
+                        //test parameter will take a regular expression indiating the file extension it wants to target
+                        test: /\.html$/,
+                        //use parameter for specifying your loaders that webpack will use
+                        use: [
+                            {
+                                //file-loader will determine how the file is being named as it been outputted
+                                loader: "file-loader",
+                                options: {
+                                    name: "[name].html"
+                                }
+                            },
+                            {
+                                //extract-loader tells webpack to load the file separately
+                                loader: "extract-loader"
+                            },
+                            {
+                                loader: "html-loader"
                             }
                         ]
                     }

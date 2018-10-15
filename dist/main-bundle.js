@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body{\\n    color: red;\\n}\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/main.css?./node_modules/css-loader");
+eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"body{\\n    color: red;\\n    margin: 0;\\n    background: beige;\\n}\\n\\nh1{\\n    display: flex;\\n    height: 100vh;\\n    align-items: center;\\n    justify-content: center;\\n    font-size: 5em;\\n    font-family: sans-serif;\\n    text-shadow: 0 0 20px black;\\n}\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/main.css?./node_modules/css-loader");
 
 /***/ }),
 
@@ -130,6 +130,17 @@ eval("\n/**\n * When source maps are enabled, `style-loader` uses a link element
 
 /***/ }),
 
+/***/ "./src/index.html":
+/*!************************!*\
+  !*** ./src/index.html ***!
+  \************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"index.html\";\n\n//# sourceURL=webpack:///./src/index.html?");
+
+/***/ }),
+
 /***/ "./src/main.css":
 /*!**********************!*\
   !*** ./src/main.css ***!
@@ -148,7 +159,7 @@ eval("\nvar content = __webpack_require__(/*! !../node_modules/css-loader!./main
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! ./main.css */ \"./src/main.css\")\n\n//# sourceURL=webpack:///./src/main.js?");
+eval("__webpack_require__(/*! ./main.css */ \"./src/main.css\")\n__webpack_require__(/*! ./index.html */ \"./src/index.html\")\n\n//# sourceURL=webpack:///./src/main.js?");
 
 /***/ }),
 
