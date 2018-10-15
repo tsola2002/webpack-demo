@@ -15,5 +15,25 @@ module.exports = {
     },
     devServer: {
         contentBase: "dist"
+    },
+    module: {
+        //setting the rules that webpack will use wen it encounters different filetypes
+        rules: [
+                    {
+                        //test parameter will take a regular expression indiating the file extension it wants to target
+                        test: /\.css$/,
+                        //use parameter for specifying your loaders that webpack will use
+                        use: [
+                            {
+                                //style will inject the css into the html
+                                loader: "style-loader"
+                            },
+                            {
+                                //css loader will lint the file
+                                loader: "css-loader"
+                            }
+                        ]
+                    }
+                ]
     }
-}
+};

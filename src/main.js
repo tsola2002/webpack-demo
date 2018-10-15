@@ -1,1 +1,1 @@
-alert("boss sholly");
+require('./main.css')
