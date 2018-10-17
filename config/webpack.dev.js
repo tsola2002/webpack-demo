@@ -23,6 +23,7 @@ module.exports = {
             colors: true
         }
     },
+    devtool: "source-map",
     module: {
         //setting the rules that webpack will use wen it encounters different filetypes
         rules: [
