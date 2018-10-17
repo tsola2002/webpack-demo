@@ -9,6 +9,6 @@
         "debug":true
       }
     ]
-  ],
-  "plugins": ["@babel/transform-runtime"]
+  ]
+  //"plugins": ["transform-runtime"]
 }

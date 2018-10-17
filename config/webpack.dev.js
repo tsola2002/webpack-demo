@@ -1,4 +1,5 @@
 const path = require("path")
+const webpack = require("webpack")
 
 
 module.exports = {
@@ -16,7 +17,11 @@ module.exports = {
     devServer: {
         contentBase: "dist",
         //displays errors on the browser
-        overlay: true
+        overlay: true,
+        hot: true,
+        stats: {
+            colors: true
+        }
     },
     module: {
         //setting the rules that webpack will use wen it encounters different filetypes
@@ -83,5 +88,8 @@ module.exports = {
                         exclude: /node_modules/
                     }
                 ]
-    }
+    },
+    plugins: [
+        new webpack.HotModuleReplacementPlugin()
+    ]
 };
