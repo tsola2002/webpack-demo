@@ -6,9 +6,10 @@
         "targets": {
           "browsers": ["last 2 versions"]
         },
-        "debug":true
+        "debug":false
       }
-    ]
-  ]
-  //"plugins": ["transform-runtime"]
+    ],
+    "babel-preset-react"
+  ],
+  "plugins": ["transform-runtime"]
 }
