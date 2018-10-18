@@ -2,144 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="628a277a-ec91-4608-aa00-9ec70c5f76d3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/btoa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/fs-cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/fs-cache.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/resolve-rc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/resolve-rc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/exists.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/exists.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/read.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/read.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/LICENSE.DOCS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/bin/btoa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/btoa/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/localsLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/localsLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/lib/processCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/lib/processCss.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/extract-loader/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-loader/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/extract-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/extract-loader/lib/extractLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-loader/lib/extractLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/extract-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extract-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/dist/cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/cjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/dist/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/options.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/src/ValidationError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/node_modules/schema-utils/src/validateOptions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/file-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global-modules-path/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global-modules-path/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global-modules-path/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global-modules-path/lib/process-wrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/global-modules-path/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/README-cn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/docs/architecture.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/docs/source-maps.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/docs/source-maps.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/docs/syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/docs/syntax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/at-rule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/at-rule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/comment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/container.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/css-syntax-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/css-syntax-error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/declaration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/declaration.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/lazy-result.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/lazy-result.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/map-generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/map-generator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/parse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/parser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/postcss.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/previous-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/previous-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/processor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/processor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/result.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/result.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/root.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/root.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/rule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/rule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringifier.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/stringifier.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/stringify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/terminal-highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/terminal-highlight.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/lib/tokenize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/lib/tokenize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/dist/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/array-set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/source-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/source-map.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/node_modules/source-map/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/style-loader/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/style-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/lib/addStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/style-loader/lib/addStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/src/ValidationError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/node_modules/schema-utils/src/validateOptions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/style-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/style-loader/useable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/style-loader/useable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config-yargs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config-yargs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/convert-argv.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/convert-argv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/optionsSchema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/prompt-command.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/bin/webpackConfigurationSchema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/DevMiddlewareError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/middleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/middleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/middleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/process-update.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/process-update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/webpack.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/webpack.dev.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -153,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="181">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -171,20 +38,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.css">
+      <file leaf-file-name="webpack.dev.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/webpack.dev.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="338">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <element signature="e#842#1539#0" />
+                <element signature="e#1561#2282#0" />
+                <element signature="e#2304#2699#0" />
+                <element signature="e#2721#3004#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -206,6 +88,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -215,11 +102,12 @@
         <option value="$PROJECT_DIR$/src/main.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/server/main.js" />
-        <option value="$PROJECT_DIR$/config/webpack.dev.js" />
         <option value="$PROJECT_DIR$/src/server/express.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/config/webpack.dev.js" />
+        <option value="$PROJECT_DIR$/src/main.sass" />
       </list>
     </option>
   </component>
@@ -240,8 +128,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="26" />
+    <option name="x" value="500" />
+    <option name="y" value="344" />
     <option name="width" value="1397" />
     <option name="height" value="522" />
   </component>
@@ -256,6 +144,11 @@
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -329,11 +222,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37886000" />
+    <option name="totallyTimeSpent" value="40246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="26" width="1397" height="522" extended-state="0" />
-    <editor active="true" />
+    <frame x="500" y="344" width="1397" height="522" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.2555476" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -393,13 +285,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/webpack.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/dist/main-bundle.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -658,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/server/express.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -675,23 +553,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/webpack.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
@@ -704,7 +568,41 @@
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#842#1539#0" />
+            <element signature="e#1561#2282#0" />
+            <element signature="e#2304#2699#0" />
+            <element signature="e#2721#3004#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>

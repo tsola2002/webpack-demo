@@ -28,7 +28,7 @@ module.exports = {
         //setting the rules that webpack will use wen it encounters different filetypes
         rules: [
                     {
-                        //test parameter will take a regular expression indiating the file extension it wants to target
+                        //test parameter will take a regular expression indicating the file extension it wants to target
                         test: /\.css$/,
                         //use parameter for specifying your loaders that webpack will use
                         use: [
@@ -39,6 +39,67 @@ module.exports = {
                             {
                                 //css loader will lint the file
                                 loader: "css-loader"
+                            }
+                        ]
+                    },
+                    {
+                //test parameter will take a regular expression indiating the file extension it wants to target
+                test: /\.sass$/,
+                //use parameter for specifying your loaders that webpack will use
+                use: [
+                    {
+                        //style will inject the css into the html
+                        loader: "style-loader"
+                    },
+                    {
+                        //css loader will lint the file
+                        loader: "css-loader"
+                    },
+                    {
+                        //sass loader will lint the file
+                        loader: "sass-loader"
+                    }
+                ]
+                    },
+                    {
+                        //test parameter will take a regular expression indiating the file extension it wants to target
+                        test: /\.less$/,
+                        //use parameter for specifying your loaders that webpack will use
+                        use: [
+                            {
+                                //style will inject the css into the html
+                                loader: "style-loader"
+                            },
+                            {
+                                //css loader will lint the file
+                                loader: "css-loader"
+                            },
+                            {
+                                //sass loader will lint the file
+                                loader: "less-loader"
+                            }
+                        ]
+                    },
+                    {
+                        //test parameter will take a regular expression indiating the file extension it wants to target
+                        test: /\.styl$/,
+                        //use parameter for specifying your loaders that webpack will use
+                        use: [
+                            {
+                                //style will inject the css into the html
+                                loader: "style-loader"
+                            },
+                            {
+                                //css loader will lint the file
+                                loader: "css-loader"
+                            },
+                            {
+                                //css loader will lint the file
+                                loader: "postcss-loader"
+                            },
+                            {
+                                //sass loader will lint the file
+                                loader: "stylus-loader"
                             }
                         ]
                     },
